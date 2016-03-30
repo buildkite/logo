@@ -4,4 +4,4 @@
 
 This repo contains versions of our logo, screenshots and text you can use when referring to Buildkite.
 
-If you need anything specific that's not here, feel free to reach out to us at hello@buildkitecom and we'll help you out.
+If you need anything specific that's not here, or need guidance on how to use specific assets, drop an email to hello@buildkite.com
