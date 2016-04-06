@@ -1,10 +1,10 @@
-# Buildkite Media Pack
+# Buildkite Logo Pack
 
-This repo contains versions of our logo, screenshots and text you can use when referring to Buildkite. If you need guidance on use, or need an asset that’s not here, please drop us a line at hello@buildkite.com — we’d be happy to help.
+This repo contains versions of our logo, marks, screenshots and text you can use when referring to Buildkite. If you need guidance on use, or need an asset that’s not here, please drop us a line at hello@buildkite.com — we’d be happy to help.
 
 **[Download a zip with all assets](https://github.com/buildkite/media/archive/master.zip)**
 
-## [Mark](marks)
+## The Buildkite Mark
 
 The mark can be used as a standalone icon (like an emoji, app icon, etc) in color or black and white. For example:
 
@@ -14,7 +14,7 @@ The mark can be used as a standalone icon (like an emoji, app icon, etc) in colo
 
 See [all versions of the mark](marks) (SVG, PNG and AI/PDF)
 
-## [Logo](logos)
+## The Buildkite Logo
 
 The full logo should be used if you’re including our name. For example:
 
@@ -24,7 +24,7 @@ The full logo should be used if you’re including our name. For example:
 
 See [all versions of the logo](logos) (SVG, PNG and AI/PDF)
 
-## [Screenshots](screenshots)
+## Screenshots
 
 If you need a screenshot of the Buildkite application you can use one of these. For example:
 
@@ -34,7 +34,7 @@ If you need a screenshot of the Buildkite application you can use one of these. 
 
 See [all the screenshots](screenshots)
 
-## [Text](text)
+## Words
 
 If you need text to describe what Buildkite is and does, we’ve [written a few words](https://github.com/buildkite/media/blob/master/text/Buildkite%20-%20Production%20Description.txt?raw=true).
 
